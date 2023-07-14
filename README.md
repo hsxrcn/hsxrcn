@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&vCenter=true&width=435&lines=++++Hi%EF%BC%81I'm+hsxr.)](https://git.io/typing-svg)
-<img align="right" alt="Songjunwei's github stats" width="50%" height="300px" src="https://github.com/hsxrcn/hsxrcn/blob/main/code.gif">
+<img align="right" alt="Songjunwei's github stats" width="50%" height="300px" src="https://github.com/hsxrcn/hsxrcn/blob/main/xenomorph.gif">
 - 🔭 I’m currently working on HangZhou,China
 - 🌱 I’m currently using Vue
 - 💬 In my blog: [hsxr.cn](https://www.hsxr.cn/)
