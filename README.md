@@ -2,7 +2,7 @@
 <img align="right" alt="Songjunwei's github stats" width="50%" height="300px" src="https://github.com/hsxrcn/hsxrcn/blob/main/code.gif">
 - 🔭 I’m currently working on HangZhou,China
 - 🌱 I’m currently using Vue
-- 💬 In my blog: [WesleyBee BLOG](https://www.hsxr.cn/)
+- 💬 In my blog: [hsxr.cn](https://www.hsxr.cn/)
 - 📫 How to reach me: <ljyonline3721@gmail.com>
 - 💞 Welcome ask me about anything
 
