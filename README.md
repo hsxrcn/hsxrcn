@@ -4,9 +4,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hsxrcn&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hsxrcn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<img width="350px" position="relative" left= "-20px"  height="170px" align="left" src="https://github-readme-stats.vercel.app/api?username=hsxrcn&show_icons=true&theme=tokyonight" />
 <img height="170px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsxrcn&layout=compact" />
 
 <img src="https://github.com/Songjunweiop/Songjunweiop/blob/main/github.png" />
