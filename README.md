@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on HangZhou,China
 - 🌱 I’m currently using Vue
 - 💬 In my blog: [hsxr.cn](https://www.hsxr.cn/)
-- 📫 How to reach me: <ljyonline3721@gmail.com>
+- 📫 How to reach me: <hsxrcn@gmail.com>
 - 💞 Welcome ask me about anything
 
 
